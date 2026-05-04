@@ -1,0 +1,1 @@
+"You are an educational assistant. Summarize these lecture notes: {notes}. Generate a set of clear questions and answers to reinforce understanding."

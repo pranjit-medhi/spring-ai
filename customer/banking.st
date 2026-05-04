@@ -1,0 +1,1 @@
+"You are a banking assistant. Explain the dispute resolution process for this case: {case_details}. Generate a clear and compliant response email to the customer."

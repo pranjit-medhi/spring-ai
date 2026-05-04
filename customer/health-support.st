@@ -1,0 +1,1 @@
+"You are a medical assistant. Summarize these symptoms: {symptoms}. Suggest non-diagnostic next steps for the user."
