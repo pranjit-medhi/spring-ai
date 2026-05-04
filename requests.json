@@ -1,0 +1,52 @@
+{
+  "category": "customer_support",
+  "data": {
+    "complaints": "My order arrived late and the product was damaged."
+  }
+}
+
+{
+  "category": "healthcare",
+  "data": {
+    "symptoms": "Fever, headache, and fatigue for the past 2 days"
+  }
+}
+
+{
+  "category": "banking",
+  "data": {
+    "case_details": "Unauthorized transaction of $200 on my credit card"
+  }
+}
+
+{
+  "category": "hr",
+  "data": {
+    "employee_details": "Employee has strong technical skills but needs improvement in communication and meeting deadlines"
+  }
+}
+
+{
+  "category": "education",
+  "data": {
+    "notes": "Photosynthesis is the process by which green plants convert sunlight into energy..."
+  }
+}
+
+{
+  "category": "ecommerce",
+  "data": {
+    "reviews": [
+      "Great product, fast delivery!",
+      "Poor quality, broke in 2 days",
+      "Value for money"
+    ]
+  }
+}
+
+{
+  "category": "travel",
+  "data": {
+    "preferences": "3-day trip to Goa, budget-friendly, beaches and nightlife"
+  }
+}
